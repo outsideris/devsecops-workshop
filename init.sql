@@ -1,0 +1,15 @@
+create table products(id int primary key, title text, UNIQUE(title));
+INSERT INTO PRODUCTS VALUES(1, "acoustic-transport");
+INSERT INTO PRODUCTS VALUES(2, "outgoing-tramp");
+INSERT INTO PRODUCTS VALUES(3, "tearful-pickle");
+INSERT INTO PRODUCTS VALUES(4, "incandescent-steam");
+INSERT INTO PRODUCTS VALUES(5, "caring-cough");
+INSERT INTO PRODUCTS VALUES(6, "loose-hand");
+INSERT INTO PRODUCTS VALUES(7, "expensive-cheese");
+INSERT INTO PRODUCTS VALUES(8, "nappy-stocking");
+INSERT INTO PRODUCTS VALUES(9, "offbeat-crack");
+INSERT INTO PRODUCTS VALUES(10, "well-groomed-produce");
+INSERT INTO PRODUCTS VALUES(11, "cheerful-operation");
+INSERT INTO PRODUCTS VALUES(12, "adorable-wish");
+INSERT INTO PRODUCTS VALUES(13, "marvelous-fan");
+INSERT INTO PRODUCTS VALUES(14, "flippant-lettuce");
